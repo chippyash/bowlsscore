@@ -1,0 +1,5 @@
+.idea
+*.iml
+bin
+dist
+Icon.png
